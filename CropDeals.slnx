@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CropDeals.Tests/CropDeals.Tests.csproj" Id="5f21afe1-6299-40b4-abac-f30917b4ff4c" />
+  <Project Path="CropDeals.csproj" />
+</Solution>
